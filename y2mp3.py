@@ -1,3 +1,10 @@
+# Youtube Playlist to MP4 and MP3 downloader
+# Author : Arul Benjamin Chandru E
+
+# Authored on : 18-May-2024
+# This hobby project extracts the Youtube video playlist into MP4 and then converts into MP3
+# Output will be saved in given output folder path
+
 import os
 import threading
 from math import ceil
