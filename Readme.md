@@ -2,6 +2,8 @@
 
 This Python application downloads videos from a YouTube playlist, extracts audio from each video, saves the audio as MP3 files, and deletes the original video files. The application provides a simple web interface using Streamlit.
 
+![alt text](https://github.com/arulbenjaminchandru/Youtube-to-MP3-converter/blob/main/application.jpg)
+
 ## Features
 
 - Download all videos from a given YouTube playlist URL.
